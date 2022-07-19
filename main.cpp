@@ -1,3 +1,10 @@
+//press 's' to stop
+//press 'S' to start
+//press 'e' to exit
+//left click for morning
+//right click for evening
+//middle click for night
+
 #include <GL/glut.h>
 #include <stdlib.h>
 #include <math.h>
